@@ -1,0 +1,15 @@
+E:\Programas C#\vehiculobuild\obj\Debug\net6.0\vehiculobuild.csproj.AssemblyReference.cache
+E:\Programas C#\vehiculobuild\obj\Debug\net6.0\vehiculobuild.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programas C#\vehiculobuild\obj\Debug\net6.0\vehiculobuild.AssemblyInfoInputs.cache
+E:\Programas C#\vehiculobuild\obj\Debug\net6.0\vehiculobuild.AssemblyInfo.cs
+E:\Programas C#\vehiculobuild\obj\Debug\net6.0\vehiculobuild.csproj.CoreCompileInputs.cache
+E:\Programas C#\vehiculobuild\bin\Debug\net6.0\vehiculobuild.exe
+E:\Programas C#\vehiculobuild\bin\Debug\net6.0\vehiculobuild.deps.json
+E:\Programas C#\vehiculobuild\bin\Debug\net6.0\vehiculobuild.runtimeconfig.json
+E:\Programas C#\vehiculobuild\bin\Debug\net6.0\vehiculobuild.dll
+E:\Programas C#\vehiculobuild\bin\Debug\net6.0\vehiculobuild.pdb
+E:\Programas C#\vehiculobuild\obj\Debug\net6.0\vehiculobuild.dll
+E:\Programas C#\vehiculobuild\obj\Debug\net6.0\refint\vehiculobuild.dll
+E:\Programas C#\vehiculobuild\obj\Debug\net6.0\vehiculobuild.pdb
+E:\Programas C#\vehiculobuild\obj\Debug\net6.0\vehiculobuild.genruntimeconfig.cache
+E:\Programas C#\vehiculobuild\obj\Debug\net6.0\ref\vehiculobuild.dll
